@@ -37,7 +37,7 @@ Size: 3 rows, 3 cols
 red   | red apple   | red kiwi   | red banana
 green | green apple | green kiwi | green banana
 ============================
-
+```
 ---
 
 ## Concepts applied
