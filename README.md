@@ -47,7 +47,7 @@ green | green apple | green kiwi | green banana
 - JavaFX GUI Programming
 
 ---
-
+```
 ## Project Structure
 p1/
 │
@@ -74,7 +74,7 @@ p1/
 ├── cs310code.xml, cs310comments.xml # Submission metadata
 ├── junit-4.11.jar # Testing library
 └── .gitignore # Files to ignore in Git
-
+```
 --
 
 ## Author
